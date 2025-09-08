@@ -56,7 +56,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/olivamusic1/New_music")
+SOURCE = getenv("SOURCE", "https://t.me/NOBITA_BOTS")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/olivamusic1/New_music",
